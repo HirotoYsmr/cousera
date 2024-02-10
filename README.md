@@ -1,2 +1,2 @@
 # cousera
-Assignment for cousera
+Assignments for cousera
